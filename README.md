@@ -18,7 +18,7 @@ This script is currently untested on stake.us, but works fine on stake.com.
 2. Add the script manually or use the greasyfork script heh: https://greasyfork.org/en/scripts/543536-you-should-call-me-kawaii-lay-it-like-a-hentai-e-3-3
 3. Visit `stake.com`
 4. Change your fiat currency to `ARS` in `BALANCE -> WALLET SETTINGS`
-5. Click `ARS or `$` if you have the script on already.
+5. Click `ARS` or `$` if you have the script on already.
 
 ## 📁 Files
 
